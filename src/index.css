@@ -38,7 +38,7 @@ h1 {
 
 .app:before {
   content: '';
-  background: url('/home/george/code/GeorgeWoods01/weather-app-react/src/assets/nasa-gyp1xkjZNg8-unsplash.jpg') no-repeat center center/cover;
+  background: url('./assets/nasa-gyp1xkjZNg8-unsplash.jpg') no-repeat center center/cover;
   position: absolute;
   width: 100%;
   height: 100%;
